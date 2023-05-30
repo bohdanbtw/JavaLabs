@@ -1,4 +1,4 @@
-package Tasks;
+package start;
 import java.util.Scanner;
 public class Calculator {
     private double num1;
