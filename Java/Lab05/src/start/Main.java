@@ -32,14 +32,5 @@ public class Main {
                 System.out.println("Wrong number");
                 break;       
         }
-        
-
-
-
-
-        
-
-
-       
     }
 }
