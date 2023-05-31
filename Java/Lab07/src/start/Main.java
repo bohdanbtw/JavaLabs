@@ -16,7 +16,7 @@ public class Main {
             
             case 2:
                 PhoneBook pb = new PhoneBook();
-                pb.StartPhone();
+                pb.Init();
                 break;
             default:
                 System.out.println("Wrong number");
