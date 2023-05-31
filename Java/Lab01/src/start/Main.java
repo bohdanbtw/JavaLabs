@@ -16,30 +16,30 @@ public class Main{
                 System.out.println();
                 break;
             
-            case 2:
-                System.out.println("Task 2");
+            case 4:
+                System.out.println("Task 4");
                 Car car = new Car();
                 car.Init();
                 car.PrintInfo();
                 System.out.println();
                 break;
 
-            case 3:
-                System.out.println("Task 3");
+            case 5:
+                System.out.println("Task 5");
                 ReverseNumber reverse = new ReverseNumber();
                 reverse.Reverse();
                 System.out.println();
                 break;
             
-            case 4:
-                System.out.println("Task 4");
+            case 2:
+                System.out.println("Task 2");
                 Sentence sentence = new Sentence();
                 sentence.CreateAndPrint();
                 System.out.println();
                 break;
             
-            case 5:
-                System.out.println("Task 5");
+            case 3:
+                System.out.println("Task 3");
                 User user = new User();
                 user.Init();
                 user.PrintUserInfo();
