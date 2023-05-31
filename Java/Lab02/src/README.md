@@ -25,3 +25,4 @@
 
 ## Вивід
 
+![image](https://github.com/bohdanbtw/JavaLabs/assets/127321482/6b181b78-c259-448c-a676-c19bfa8ba927)
