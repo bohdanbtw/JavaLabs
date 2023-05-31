@@ -12,7 +12,7 @@ public class RandomNumberWriter {
         int count = 10;
 
         try {
-            FileWriter writer = new FileWriter(fileName);
+            FileWriter writer = new FileWriter("Lab08/src/" + fileName);
 
             for (int i = 0; i < count; i++) {
                 int randomNumber = generateRandomNumber(b1, b2);

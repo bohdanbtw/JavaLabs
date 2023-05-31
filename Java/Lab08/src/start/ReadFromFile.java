@@ -6,7 +6,7 @@ import java.io.IOException;
 
 public class ReadFromFile {
     public static void Init(String[] args) {
-        String fileName = "random_numbers.txt";
+        String fileName = "Lab08/src/random_numbers.txt";
 
         try {
             FileReader fileReader = new FileReader(fileName);
