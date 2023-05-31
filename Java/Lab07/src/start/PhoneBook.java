@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class PhoneBook {
-    public static void StartPhone() {
+    public static void Init() {
         // Створюємо об'єкт HashMap для зберігання прізвищ та номерів телефонів
         Map<String, String> phoneBook = new HashMap<>();
 
