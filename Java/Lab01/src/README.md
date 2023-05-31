@@ -11,6 +11,7 @@
 - Ділення
 
 Результати кожної операції будуть виведені в консоль.
+
 ![image](https://github.com/bohdanbtw/JavaLabs/assets/127321482/df6095a9-c953-4462-bd03-65e8f9f129b0)
 
 
