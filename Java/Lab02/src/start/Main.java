@@ -34,6 +34,9 @@ public class Main {
                 QuadraticEquation qe = new QuadraticEquation();
                 qe.Launch();
                 break;
+            default:
+                System.out.println("Wrong number");
+                break;
         }
     
     }
