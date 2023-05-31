@@ -13,6 +13,14 @@ public class Main {
                 TaxiService taxi = new TaxiService();
                 taxi.Init();
                 break;
+            
+            case 2:
+                PhoneBook pb = new PhoneBook();
+                pb.StartPhone();
+                break;
+            default:
+                System.out.println("Wrong number");
+                break;
         }
         
     }
