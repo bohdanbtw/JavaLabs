@@ -25,7 +25,7 @@ public class Task2 {
     }
 
     public void Init(){
-        Task2 a = new Task2(1,676,235);
+        Task2 a = new Task2(12,222,99542);
         a.GetTheSmallestNumber();
     }
 }
